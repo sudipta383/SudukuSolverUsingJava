@@ -1,1 +1,1 @@
-# SudukuSolverUsingJava
+# Suduku Solver (UsingJava)
