@@ -19,7 +19,7 @@ public class SudokuSolverMain {
 		      };
 		System.out.println("Given Suduku To Solve");
 		printBoard(board);
-		System.out.println();
+		System.out.println("");
 		
 		if(solveBoard(board))
 		{
